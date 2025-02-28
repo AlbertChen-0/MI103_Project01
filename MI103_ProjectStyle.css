@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400;700&family=Itim&display=swap');
+
+body {
+    font-family: 'Itim', cursive; 
+    background-color: #4b3b6b;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.key-cards-bar,
+.combo-title,
+.box-title,
+.nav-button,
+.disclaimer-title,
+.links-title {
+    font-family: 'Inknut Antiqua', serif;
+}
+
+.top-bar {
+    width: 100%;
+    height: 50px;
+    background-color: #321f4e;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.nav-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.nav-button {
+    background-color: #d63a3e;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.nav-button:hover {
+    background-color: #d63a3e;
+}
+
+.logo-container {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1.8px solid #9681FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+}
+
+.content-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.left-image {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.text-box,
+.combo-text-box {
+    background-color: rgba(46, 26, 71, 0.9);
+    padding: 15px;
+    margin: 0 auto 20px;
+    max-width: 600px;
+    width: 80%;
+    text-align: left;
+    border-radius: 10px;
+}
+
+
+.box-title {
+    background-color: #189C9F;
+    padding: 10px;
+    border-radius: 8px 8px 8px 8px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.key-cards-bar {
+    background-color: #27153d;
+    color: white;
+    padding: 15px;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.combo-section {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.combo-title {
+    background-color: #189C9F;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0 auto 15px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+.combo-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+
+.combo-card {
+    background-color: #1b1b2f;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    width: 150px;
+}
+
+.combo-card img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.combo-card p {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.footer {
+    background-color: #27153d;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 16px;
+}
+
+.disclaimer-title {
+    background-color: #d63a3e;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    display: inline-block;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.links-title {
+    background-color: #d63a3e;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    display: inline-block;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.links-box a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin: 5px 0;
+}
+
+.links-box a:hover {
+    text-decoration: underline;
+}
