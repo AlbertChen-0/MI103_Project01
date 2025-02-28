@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galaxy-Eyes</title>
+    <link rel="stylesheet" href="MI103_ProjectStyle.css"> 
+</head>
+<body>
+
+<div class="top-bar">
+    <div class="logo-container">
+        <img src="https://ms.yugipedia.com//3/31/GalaxyEyesCloudragon-MADU-EN-VG-artwork.png">
+    </div>
+    <div class="nav-buttons">
+        <a href="#combo-starter" class="nav-button">Combo Starter</a>
+        <a href="#combo-extender" class="nav-button">Combo Extender</a>
+        <a href="#turn-1-end-board" class="nav-button">Turn 1 End Board</a>
+        <a href="#game-ender" class="nav-button">Game Ender</a>
+    </div>
+</div>
+
+    <img class="main-image" src="https://cdnb.artstation.com/p/assets/images/images/050/102/679/large/leo-3.jpg?1654068683">
+
+    <div class="content-section">
+        <img class="left-image" src="https://www.cardrush.jp/phone/data/cardrush/product/QCAC25th1_45.jpg">
+
+        <div class="text-box">
+            <div class="box-title">What is Galaxy-Eyes' Specialty?</div>
+            <p>The most standout feature of Galaxy-Eyes is probably their abundant boss monsters, which also have high attack points. Their ability to perform one-turn kills going second is one of the best.</p>
+            <p>The second specialty would be the ability to rip monsters out from opponents’ extra decks, sometimes rendering the opponents' deck completely unusable. If the opponent has a Number Monster in their extra deck, the Galaxy-Eyes player could also steal it and summon it to their side of the field.</p>
+        </div>
+    </div>
+
+    <div class="key-cards-bar">Key Cards</div>
+
+    <div class="combo-section">
+        <div class="combo-title">Combo Starter</div>
+        <div id="combo-starter" class="combo-section">
+    <div class="combo-text-box">
+        <div class="combo-text-box">
+            <p>Starter is what Galaxy-Eyes deck lacks the most, but it is still enough to be count as a fairly consistent deck.  
+
+                Generally, players would want to start with Galaxy Hundred in their hand, but if there isn’t, player can normal summon Galaxy Wizard to use it to search Galaxy Hundred directly into their hand. Foolish Burial having a similar effect of sending a card to the graveyard makes it a great substitute for Galaxy Hundred.
+                
+                As the deck i now, player will not usually use Galaxy Soldier as a combo starter, but it is still a option. </p>
+        </div>
+        <div class="combo-grid">
+            <div class="combo-card">
+                <img src="https://storage.xpg.cards/image/CPF1/JP041.jpg">
+                <p>Galaxy Wizard</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://shoplineimg.com/6389a9247436ca009701443e/65fef4d0f18c0e0001fecc00/800x.jpg?">
+                <p>Galaxy Hundred</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://storage.xpg.cards/image/CPF1/JP043.jpg">
+                <p>Galaxy Soldier</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://img.alicdn.com/imgextra/i1/845711858/TB1PDeFX1uSBuNjSsplXXbe8pXa_!!0-item_pic.jpg">
+                <p>Foolish Burial</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="combo-section">
+        <div id="combo-extender" class="combo-section"></div>
+        <div class="combo-title">Combo Extender</div>
+        <div class="combo-text-box">
+            <p>Extenders is what Galaxy-Eyes deck has access to the most, there are so much of them that I need to cut them down to four cards to focus on.
+
+                Photon Jumper is the target that Galaxy Hundred and Foolish Burial will be send to the graveyard. With its effect, it can search Galaxy Trance into the players hand and summon Galaxy Photon Dragon with it with the cost of 2000 life points. At this point, player would want to use Galaxy Photon Dragon’s effect to search for either Photon Emperor or Photon Soldier, depending on which the player is missing. </p>
+        </div>
+        <div class="combo-grid">
+            <div class="combo-card">
+                <img src="https://i.ebayimg.com/00/s/MTU1NFgxMDU0/z/hdoAAOSwnvpjv-ZJ/$_57.JPG?set_id=880000500F">
+                <p>Photon Jumper</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf2eh9aV-5ZW_mBtQyC_uOU46zEG0DZxvsHQ&s" >
+                <p>Photon Emperor</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://img04.shop-pro.jp/PA01012/728/product/180131791.jpg?cmsp_timestamp=20240322205129">
+                <p>Galaxy Photon Dragon</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://img.boutirapp.com/i/7NOWaW-65kohXfLYrIx4KmNGn3xTNXt7hSe4qCz8a-t">
+                <p>Galaxy Trance</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="combo-section">
+        <div id="turn-1-end-board" class="combo-section"></div>
+        <div class="combo-title">Turn 1 End Board</div>
+        <div class="combo-text-box">
+            <p>Galaxy-Eyes’ first turn end board is decently powerful. With Starliege Photon Dragon and Galaxy Photon Dragon on the field, player’s light monsters with attack above 2000 all cannot be targeted or destroyed by  opponents effect.
+
+                Galaxy-Eyes end board usually have two negates. One which is also the priority, is No.90 Galaxy-Eyes Photon Lord. Not only can it serve as a disruption, it can also replenish resource on the opponents turn and search up whatever galaxy or photon cards the player needs at the moment.
+                The second negate is one of the most commonly seen disruption monster in the game, being No.38 Hope Harbinger Dragon Titanic Galaxy, its powerful effect of negating and stealing opponents spell cards makesvit a great asset. </p>
+        </div>
+        <div class="combo-grid">
+            <div class="combo-card">
+                <img src="https://img04.shop-pro.jp/PA01012/728/product/180131791.jpg?cmsp_timestamp=20240322205129">
+                <p>Galaxy Photon Dragon</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://m.media-amazon.com/images/I/61STzacG3oL.jpg">
+                <p>Starliege Photon Dragon</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://www.cardrush.jp/phone/data/cardrush/product/QCCPSEC_139.jpg">
+                <p>No.90 Galaxy-Eyes Photon Lord</p>
+            </div>
+            <div class="combo-card">
+                <img src="data:image/jpeg;base64,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">
+                <p>No.38 Hope Harbinger Dragon Titanic Galaxy</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="combo-section">
+        <div id="game-ender" class="combo-section"></div>
+        <div class="combo-title game-ender-title">Game Ender</div>
+        <div class="combo-text-box">
+            <p>Galaxy-Eyes’ most renown characteristic is their ability to end the game with a single strike. With the combination of either No.62 Galaxy-Eyes Prime Photon Dragon or CNo.62 Neo Galaxy-Eyes Prime Photon Dragon and Galaxy-Eyes Afterglow Dragon, The two Number Monsters could easily obtain attack points over 10000. Though the regular No.62 could obtain more attack power, the Chaos version of it has immunity to all opponents monster effect, while also could attack opponents monsters three times in a turn. Because of this, there is no definitive which to use over the other, but use each of them according to the situation.</p>
+        </div>
+        <div class="combo-grid">
+            <div class="combo-card">
+                <img src="https://www.cardrush.jp/phone/data/cardrush/product/NCF1_210501_61.jpg">
+                <p>No.62 Galaxy-Eyes Prim Photon Dragon</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://dorasuta.jp/contents/product/1/11_0000423565_1_0_H2Gg5P.jpg">
+                <p>CNo.62 Neo Galaxy-Eyes Prim Photon Dragon</p>
+            </div>
+            <div class="combo-card">
+                <img src="https://m.media-amazon.com/images/I/51R4OcrIKuL._AC_UF894,1000_QL80_.jpg">
+                <p>Galaxy-Eyes Afterglow Dragon</p>
+            </div>
+        </div>
+    </div>
+        <div class="footer">
+            <div class="disclaimer-box">
+                <div class="disclaimer-title">Inprotant Note</div>
+                <p>This is a very scuff introduction for this archetype, and with the new supports it got, this is extremely inaccurate and outdated.</p>
+            </div>
+    
+            <div class="links-box">
+                <div class="links-title">Link to Cards</div>
+                <p>
+                    <a href="https://yugioh.fandom.com/wiki/Galaxy-Eyes_Afterglow_Dragon" target="_blank">Galaxy-Eyes Afterglow Dragon</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Galaxy-Eyes_Photon_Dragon" target="_blank">Galaxy-Eyes Photon Dragon</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Number_62:_Galaxy-Eyes_Prime_Photon_Dragon" target="_blank">Number 62: Galaxy-Eyes Prime Photon Dragon</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Number_90:_Galaxy-Eyes_Photon_Lord" target="_blank">Number 90: Galaxy-Eyes Photon Lord</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Number_C62:_Neo_Galaxy-Eyes_Prime_Photon_Dragon" target="_blank">Number C62: Neo Galaxy-Eyes Prime Photon Dragon</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Galaxy_Photon_Dragon" target="_blank">Galaxy Photon Dragon</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Galaxy_Soldier" target="_blank">Galaxy Soldier</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Galaxy_Wizard" target="_blank">Galaxy Wizard</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Number_38:_Hope_Harbinger_Dragon_Titanic_Galaxy" target="_blank">Number 38: Hope Harbinger Dragon Titanic Galaxy</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Galaxy_Hundred" target="_blank">Galaxy Hundred</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Galaxy_Trance" target="_blank">Galaxy Trance</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Photon_Emperor" target="_blank">Photon Emperor</a><br>
+                    <a href="https://yugioh.fandom.com/wiki/Photon_Jumper" target="_blank">Photon Jumper</a>
+                </p>
+            </div>
+        </div>
+    
+
+</body>
+</html>
